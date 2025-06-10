@@ -48,7 +48,7 @@ The dataset includes the following key features:
 > ✔ Distribution analysis of categorical and numerical columns  
 
 _📸 Sample EDA Visualization_  
-![EDA Plot](images/eda_sample.png)
+![Image](https://github.com/user-attachments/assets/cec3272d-d7e3-4927-a36b-fe05370bf10e)
 
 ---
 
