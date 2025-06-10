@@ -102,8 +102,31 @@ _📸 Sample EDA Visualization_
 ---
 
 ## 📝 Conclusion
+🔍 Built a complete Customer Churn Prediction system using supervised machine learning techniques.
 
-An end-to-end churn prediction system was built using structured customer data. The Random Forest Classifier provided the best performance. Visualization and feature analysis helped gain insights into what affects customer churn the most.
+🎯 Objective: To predict whether a customer is likely to churn based on their behavioral and transactional data.
+
+🧹 Performed thorough data cleaning and preprocessing, including handling missing values, encoding categorical features, and feature scaling.
+
+🧠 Applied and compared multiple classification models:
+
+Logistic Regression
+
+Decision Tree
+
+Random Forest
+
+K-Nearest Neighbors (KNN)
+
+Support Vector Machine (SVM)
+
+🥇 Among all models, Random Forest Classifier achieved the highest performance with an accuracy of 96.36%.
+
+📊 Conducted feature importance analysis to identify key factors affecting churn, which helps businesses target at-risk customers effectively.
+
+💼 This model can assist marketing and CRM teams in implementing proactive retention strategies, reducing customer loss and improving revenue.
+
+
 
 ---
 
