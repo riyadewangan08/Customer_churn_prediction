@@ -156,6 +156,7 @@ Support Vector Machine (SVM)
 ## 📬 Contact
 
 **Created by:** Riya dewangan
+
 **Email:** [riyadew77@gmail.com](mailto:riyadew77@gmail.com)
 
 ---
