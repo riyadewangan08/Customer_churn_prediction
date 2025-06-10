@@ -78,7 +78,7 @@ _📸 Sample EDA Visualization_
 
 ### 🔹 Model Accuracy Comparison
 
-![Model Accuracy](images/model_accuracy.png)
+![Image](https://github.com/user-attachments/assets/aa1d9e0c-6cbb-4fbd-b0d7-2346548ba33e)
 
 ### 🔹 Feature Importance (Random Forest)
 
