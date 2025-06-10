@@ -85,8 +85,11 @@ _📸 Sample EDA Visualization_
 ![Image](https://github.com/user-attachments/assets/70231ff0-4cbe-45c5-b11f-095be7cd37c8)
 
 ### 🔹 Confusion Matrix
+![Image](https://github.com/user-attachments/assets/fd06e639-7a2d-476c-9dd6-cbe305caa85b)
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Image](https://github.com/user-attachments/assets/993f2e7a-fff4-40b7-8b07-dc531117d64f)
+
+![Image](https://github.com/user-attachments/assets/1beae653-cd27-4b75-95e1-a3fe309e2876)
 
 ---
 
