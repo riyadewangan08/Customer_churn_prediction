@@ -82,7 +82,7 @@ _📸 Sample EDA Visualization_
 
 ### 🔹 Feature Importance (Random Forest)
 
-![Feature Importance](images/feature_importance.png)
+![Image](https://github.com/user-attachments/assets/70231ff0-4cbe-45c5-b11f-095be7cd37c8)
 
 ### 🔹 Confusion Matrix
 
