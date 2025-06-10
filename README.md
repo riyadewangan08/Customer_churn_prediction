@@ -95,9 +95,25 @@ _📸 Sample EDA Visualization_
 
 ## 📌 Key Findings
 
-- **Tenure**, **CashbackAmount**, and **WarehouseToHome** are the top churn indicators.
-- Random Forest outperforms all other models in prediction accuracy.
-- Business can target long-tenure and low cashback users for retention campaigns.
+🔸 Tenure: The most significant predictor of churn. Customers with shorter tenure are more likely to leave, indicating the importance of onboarding and early retention strategies.
+
+🔸 CashbackAmount: Customers who received higher cashback amounts tend to stay longer. Offering attractive incentives and personalized deals could reduce churn.
+
+🔸 WarehouseToHome Distance: Longer delivery distances negatively impact customer satisfaction and increase the chance of churn. Optimizing logistics and reducing delivery time may improve loyalty.
+
+🔸 Complaints and SatisfactionScore: Customers who frequently raise complaints or have low satisfaction scores are more likely to churn. Improving customer service and resolving issues quickly is critical.
+
+🔸 Device and Platform Preferences: Customers using certain login devices or preferred order categories showed different churn behaviors, which can help in segment-specific marketing.
+
+🔸 Model Comparison:
+
+Random Forest outperformed all other models in both accuracy and feature interpretation.
+
+Decision Tree performed well but was slightly less accurate and prone to overfitting.
+
+Logistic Regression showed decent baseline performance but lacked flexibility in capturing nonlinear relationships.
+
+
 
 ---
 
